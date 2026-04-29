@@ -1,0 +1,754 @@
+[
+  {
+    "slideId": "s03-open1",
+    "title": "Willkommen",
+    "block": "B03",
+    "order": 1,
+    "exportId": "living-syllabus:s03-open1",
+    "exportName": "B03-01 \u00b7 Willkommen",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open2",
+    "title": "Modelle",
+    "block": "B03",
+    "order": 2,
+    "exportId": "living-syllabus:s03-open2",
+    "exportName": "B03-02 \u00b7 Modelle",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open3",
+    "title": "LLMs & Agenten",
+    "block": "B03",
+    "order": 3,
+    "exportId": "living-syllabus:s03-open3",
+    "exportName": "B03-03 \u00b7 LLMs & Agenten",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open4",
+    "title": "AI-Native Apps",
+    "block": "B03",
+    "order": 4,
+    "exportId": "living-syllabus:s03-open4",
+    "exportName": "B03-04 \u00b7 AI-Native Apps",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open5",
+    "title": "KI im UX Lifecycle",
+    "block": "B03",
+    "order": 5,
+    "exportId": "living-syllabus:s03-open5",
+    "exportName": "B03-05 \u00b7 KI im UX Lifecycle",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open6",
+    "title": "Image vs. Code",
+    "block": "B03",
+    "order": 6,
+    "exportId": "living-syllabus:s03-open6",
+    "exportName": "B03-06 \u00b7 Image vs. Code",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open7",
+    "title": "Review Challenge A",
+    "block": "B03",
+    "order": 7,
+    "exportId": "living-syllabus:s03-open7",
+    "exportName": "B03-07 \u00b7 Review Challenge A",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open8",
+    "title": "Review Challenge B",
+    "block": "B03",
+    "order": 8,
+    "exportId": "living-syllabus:s03-open8",
+    "exportName": "B03-08 \u00b7 Review Challenge B",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-open9",
+    "title": "Reflexion",
+    "block": "B03",
+    "order": 9,
+    "exportId": "living-syllabus:s03-open9",
+    "exportName": "B03-09 \u00b7 Reflexion",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-sys-intro1",
+    "title": "Grundlagen",
+    "block": "sys-design",
+    "order": 1,
+    "exportId": "living-syllabus:s03-sys-intro1",
+    "exportName": "sys-design-01 \u00b7 Grundlagen",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-sys",
+    "title": "Anatomie",
+    "block": "B03",
+    "order": 10,
+    "exportId": "living-syllabus:s03-sys",
+    "exportName": "B03-10 \u00b7 Anatomie",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-sys-ref",
+    "title": "Referenzsysteme",
+    "block": "B03",
+    "order": 11,
+    "exportId": "living-syllabus:s03-sys-ref",
+    "exportName": "B03-11 \u00b7 Referenzsysteme",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-token",
+    "title": "Token-DNA",
+    "block": "B03",
+    "order": 12,
+    "exportId": "living-syllabus:s03-token",
+    "exportName": "B03-12 \u00b7 Token-DNA",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-dtcg",
+    "title": "W3C & Token Standard",
+    "block": "B03",
+    "order": 13,
+    "exportId": "living-syllabus:s03-dtcg",
+    "exportName": "B03-13 \u00b7 W3C & Token Standard",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-data-json",
+    "title": "Format: JSON",
+    "block": "B03",
+    "order": 14,
+    "exportId": "living-syllabus:s03-data-json",
+    "exportName": "B03-14 \u00b7 Format: JSON",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-data-md",
+    "title": "Format: Markdown",
+    "block": "B03",
+    "order": 15,
+    "exportId": "living-syllabus:s03-data-md",
+    "exportName": "B03-15 \u00b7 Format: Markdown",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-design-md",
+    "title": "Google Stitch",
+    "block": "B03",
+    "order": 16,
+    "exportId": "living-syllabus:s03-design-md",
+    "exportName": "B03-16 \u00b7 Google Stitch",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-design-fmt",
+    "title": "Manifest: DESIGN.md",
+    "block": "B03",
+    "order": 17,
+    "exportId": "living-syllabus:s03-design-fmt",
+    "exportName": "B03-17 \u00b7 Manifest: DESIGN.md",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-agents-md",
+    "title": "Manifest: AGENTS.md",
+    "block": "B03",
+    "order": 18,
+    "exportId": "living-syllabus:s03-agents-md",
+    "exportName": "B03-18 \u00b7 Manifest: AGENTS.md",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-mcp",
+    "title": "Protokoll: MCP",
+    "block": "B03",
+    "order": 19,
+    "exportId": "living-syllabus:s03-mcp",
+    "exportName": "B03-19 \u00b7 Protokoll: MCP",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-stitch-make",
+    "title": "Figma vs. Stitch",
+    "block": "B03",
+    "order": 20,
+    "exportId": "living-syllabus:s03-stitch-make",
+    "exportName": "B03-20 \u00b7 Figma vs. Stitch",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-style",
+    "title": "Aesthetic Fixation",
+    "block": "B03",
+    "order": 21,
+    "exportId": "living-syllabus:s03-style",
+    "exportName": "B03-21 \u00b7 Aesthetic Fixation",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-div",
+    "title": "Visuelle Divergenz",
+    "block": "B03",
+    "order": 22,
+    "exportId": "living-syllabus:s03-div",
+    "exportName": "B03-22 \u00b7 Visuelle Divergenz",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-prompting",
+    "title": "Agent Prompting",
+    "block": "B03",
+    "order": 23,
+    "exportId": "living-syllabus:s03-prompting",
+    "exportName": "B03-23 \u00b7 Agent Prompting",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-skills",
+    "title": "Agent Skills",
+    "block": "B03",
+    "order": 24,
+    "exportId": "living-syllabus:s03-skills",
+    "exportName": "B03-24 \u00b7 Agent Skills",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-c-scen",
+    "title": "Aufgabenstellung",
+    "block": "B03",
+    "order": 25,
+    "exportId": "living-syllabus:s03-c-scen",
+    "exportName": "B03-25 \u00b7 Aufgabenstellung",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-c-out",
+    "title": "Outcome",
+    "block": "B03",
+    "order": 26,
+    "exportId": "living-syllabus:s03-c-out",
+    "exportName": "B03-26 \u00b7 Outcome",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-c-work",
+    "title": "Methodik & Pipeline",
+    "block": "B03",
+    "order": 27,
+    "exportId": "living-syllabus:s03-c-work",
+    "exportName": "B03-27 \u00b7 Methodik & Pipeline",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-c-assess",
+    "title": "Bewertungsschema",
+    "block": "B03",
+    "order": 28,
+    "exportId": "living-syllabus:s03-c-assess",
+    "exportName": "B03-28 \u00b7 Bewertungsschema",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-dash-def",
+    "title": "Was ist ein Dashboard?",
+    "block": "B03",
+    "order": 29,
+    "exportId": "living-syllabus:s03-dash-def",
+    "exportName": "B03-29 \u00b7 Was ist ein Dashboard?",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-dash-insp",
+    "title": "Inspiration & Dom\u00e4nen",
+    "block": "B03",
+    "order": 30,
+    "exportId": "living-syllabus:s03-dash-insp",
+    "exportName": "B03-30 \u00b7 Inspiration & Dom\u00e4nen",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-dash-viz",
+    "title": "Data Viz Grundlagen",
+    "block": "B03",
+    "order": 31,
+    "exportId": "living-syllabus:s03-dash-viz",
+    "exportName": "B03-31 \u00b7 Data Viz Grundlagen",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-patterns",
+    "title": "Bento Grid & Patterns",
+    "block": "B03",
+    "order": 32,
+    "exportId": "living-syllabus:s03-patterns",
+    "exportName": "B03-32 \u00b7 Bento Grid & Patterns",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-dash-ai",
+    "title": "KI-Dashboards",
+    "block": "B03",
+    "order": 33,
+    "exportId": "living-syllabus:s03-dash-ai",
+    "exportName": "B03-33 \u00b7 KI-Dashboards",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-intro",
+    "title": "System-Architekt",
+    "block": "B03",
+    "order": 34,
+    "exportId": "living-syllabus:s03-flow-intro",
+    "exportName": "B03-34 \u00b7 System-Architekt",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-2",
+    "title": "Task vs. Journey",
+    "block": "B03",
+    "order": 35,
+    "exportId": "living-syllabus:s03-flow-2",
+    "exportName": "B03-35 \u00b7 Task vs. Journey",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-1",
+    "title": "Flowchart Notation",
+    "block": "B03",
+    "order": 36,
+    "exportId": "living-syllabus:s03-flow-1",
+    "exportName": "B03-36 \u00b7 Flowchart Notation",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-mermaid",
+    "title": "Format: Mermaid.js",
+    "block": "B03",
+    "order": 37,
+    "exportId": "living-syllabus:s03-flow-mermaid",
+    "exportName": "B03-37 \u00b7 Format: Mermaid.js",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-figjam-ai",
+    "title": "Tool: FigJam AI",
+    "block": "B03",
+    "order": 38,
+    "exportId": "living-syllabus:s03-flow-figjam-ai",
+    "exportName": "B03-38 \u00b7 Tool: FigJam AI",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-whimsical",
+    "title": "Tool: Whimsical",
+    "block": "B03",
+    "order": 39,
+    "exportId": "living-syllabus:s03-flow-whimsical",
+    "exportName": "B03-39 \u00b7 Tool: Whimsical",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-3",
+    "title": "IA & Sitemaps",
+    "block": "B03",
+    "order": 40,
+    "exportId": "living-syllabus:s03-flow-3",
+    "exportName": "B03-40 \u00b7 IA & Sitemaps",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-relume",
+    "title": "Tool: Relume",
+    "block": "B03",
+    "order": 41,
+    "exportId": "living-syllabus:s03-flow-relume",
+    "exportName": "B03-41 \u00b7 Tool: Relume",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-mobbin",
+    "title": "Pattern Library: Mobbin",
+    "block": "B03",
+    "order": 42,
+    "exportId": "living-syllabus:s03-flow-mobbin",
+    "exportName": "B03-42 \u00b7 Pattern Library: Mobbin",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s03-flow-blueprint",
+    "block": "B03",
+    "order": 43,
+    "exportId": "living-syllabus:s03-flow-blueprint",
+    "exportName": "B03-43 \u00b7 Service Blueprints & UML",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft",
+    "title": "Service Blueprints & UML"
+  },
+  {
+    "slideId": "s03-d-intro",
+    "block": "B03",
+    "order": 44,
+    "exportId": "living-syllabus:s03-d-intro",
+    "exportName": "B03-44 \u00b7 Aufgabenstellung",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft",
+    "title": "Aufgabenstellung"
+  },
+  {
+    "slideId": "s03-d-scen",
+    "block": "B03",
+    "order": 45,
+    "exportId": "living-syllabus:s03-d-scen",
+    "exportName": "B03-45 \u00b7 Use Case Scenarios",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft",
+    "title": "Use Case Scenarios"
+  },
+  {
+    "slideId": "s03-d-out",
+    "block": "B03",
+    "order": 46,
+    "exportId": "living-syllabus:s03-d-out",
+    "exportName": "B03-46 \u00b7 Outcome",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft",
+    "title": "Outcome"
+  },
+  {
+    "slideId": "s03-d-assess",
+    "block": "B03",
+    "order": 47,
+    "exportId": "living-syllabus:s03-d-assess",
+    "exportName": "B03-47 \u00b7 Bewertungsschema",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft",
+    "title": "Bewertungsschema"
+  },
+  {
+    "slideId": "s04-mvp",
+    "title": "Maker vs. Pro Stack",
+    "block": "B04",
+    "order": 1,
+    "exportId": "living-syllabus:s04-mvp",
+    "exportName": "B04-01 \u00b7 Maker vs. Pro Stack",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-ide-core",
+    "title": "Die IDE",
+    "block": "B04",
+    "order": 2,
+    "exportId": "living-syllabus:s04-ide-core",
+    "exportName": "B04-02 \u00b7 Die IDE",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-term",
+    "title": "Das Terminal",
+    "block": "B04",
+    "order": 3,
+    "exportId": "living-syllabus:s04-term",
+    "exportName": "B04-03 \u00b7 Das Terminal",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-github",
+    "title": "GitHub",
+    "block": "B04",
+    "order": 4,
+    "exportId": "living-syllabus:s04-github",
+    "exportName": "B04-04 \u00b7 GitHub",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-publish",
+    "title": "Publishing",
+    "block": "B04",
+    "order": 5,
+    "exportId": "living-syllabus:s04-publish",
+    "exportName": "B04-05 \u00b7 Publishing",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-api-intro",
+    "block": "B04",
+    "title": "APIs (Classic vs AI)",
+    "order": 6,
+    "exportName": "B04-06 \u00b7 APIs (Classic vs AI)"
+  },
+  {
+    "slideId": "s04-api-examples",
+    "title": "API Inspiration",
+    "block": "B04",
+    "order": 7,
+    "exportId": "living-syllabus:s04-api-examples",
+    "exportName": "B04-07 \u00b7 API Inspiration",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-api-connection",
+    "title": "API Anbindung & Sicherheit",
+    "block": "B04",
+    "order": 8,
+    "exportId": "living-syllabus:s04-api-connection",
+    "exportName": "B04-08 \u00b7 API Anbindung & Sicherheit",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-intro",
+    "title": "Intro: The Modern Stack",
+    "block": "B04",
+    "order": 9,
+    "exportId": "living-syllabus:s04-intro",
+    "exportName": "B04-09 \u00b7 Intro: The Modern Stack",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-react",
+    "title": "React 19 Core",
+    "block": "B04",
+    "order": 10,
+    "exportId": "living-syllabus:s04-react",
+    "exportName": "B04-10 \u00b7 React 19 Core",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-tailwind",
+    "title": "Tailwind CSS",
+    "block": "B04",
+    "order": 11,
+    "exportId": "living-syllabus:s04-tailwind",
+    "exportName": "B04-11 \u00b7 Tailwind CSS",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-shadcn",
+    "title": "shadcn/ui (AI Secret)",
+    "block": "B04",
+    "order": 12,
+    "exportId": "living-syllabus:s04-shadcn",
+    "exportName": "B04-12 \u00b7 shadcn/ui (AI Secret)",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-ts",
+    "title": "TypeScript",
+    "block": "B04",
+    "order": 13,
+    "exportId": "living-syllabus:s04-ts",
+    "exportName": "B04-13 \u00b7 TypeScript",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-framer",
+    "title": "Framer Motion",
+    "block": "B04",
+    "order": 14,
+    "exportId": "living-syllabus:s04-framer",
+    "exportName": "B04-14 \u00b7 Framer Motion",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-server",
+    "title": "Vite (Server & Build)",
+    "block": "B04",
+    "order": 15,
+    "exportId": "living-syllabus:s04-server",
+    "exportName": "B04-15 \u00b7 Vite (Server & Build)",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-vibe-tools",
+    "title": "Komponenten & UI-Inspiration",
+    "block": "B04",
+    "order": 16,
+    "exportId": "living-syllabus:s04-vibe-tools",
+    "exportName": "B04-16 \u00b7 Komponenten & UI-Inspiration",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-chalE1-intro",
+    "block": "B04",
+    "title": "Aufgabenstellung",
+    "order": 17,
+    "exportName": "B04-17 \u00b7 Aufgabenstellung"
+  },
+  {
+    "slideId": "s04-chalE1-scene",
+    "block": "B04",
+    "title": "AI Showcase",
+    "order": 18,
+    "exportName": "B04-18 \u00b7 AI Showcase"
+  },
+  {
+    "slideId": "s04-chalE1-proto",
+    "title": "Der KI App Prototyp",
+    "block": "B04",
+    "order": 19,
+    "exportId": "living-syllabus:s04-chalE1-proto",
+    "exportName": "B04-19 \u00b7 Der KI App Prototyp",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-chalE1-vision",
+    "title": "Die VISION.md",
+    "block": "B04",
+    "order": 20,
+    "exportId": "living-syllabus:s04-chalE1-vision",
+    "exportName": "B04-20 \u00b7 Die VISION.md",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-chalE1-work",
+    "block": "B04",
+    "title": "Vibe Coding Taktiken",
+    "order": 21,
+    "exportName": "B04-21 \u00b7 Vibe Coding Taktiken"
+  },
+  {
+    "slideId": "s04-chalE1-out",
+    "block": "B04",
+    "title": "Outcome",
+    "order": 22,
+    "exportName": "B04-22 \u00b7 Outcome"
+  },
+  {
+    "slideId": "s04-chalE1-assess",
+    "block": "B04",
+    "title": "Evaluationskriterien",
+    "order": 23,
+    "exportName": "B04-23 \u00b7 Evaluationskriterien"
+  },
+  {
+    "slideId": "s04-chalE",
+    "title": "Optional: Projekt Live schalten",
+    "block": "B04",
+    "order": 24,
+    "exportId": "living-syllabus:s04-chalE",
+    "exportName": "B04-24 \u00b7 Optional: Projekt Live schalten",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-pim-intro",
+    "title": "Personal Information Management",
+    "block": "B04",
+    "order": 26,
+    "exportId": "living-syllabus:s04-pim-intro",
+    "exportName": "B04-26 \u00b7 Personal Information Management",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-local-markdown",
+    "title": "Data Sovereignty",
+    "block": "B04",
+    "order": 27,
+    "exportId": "living-syllabus:s04-local-markdown",
+    "exportName": "B04-27 \u00b7 Data Sovereignty",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-obsidian-tool",
+    "title": "Tool: Obsidian",
+    "block": "B04",
+    "order": 28,
+    "exportId": "living-syllabus:s04-obsidian-tool",
+    "exportName": "B04-28 \u00b7 Tool: Obsidian",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-wispr-flow",
+    "title": "Tool: Wispr Flow",
+    "block": "B04",
+    "order": 29,
+    "exportId": "living-syllabus:s04-wispr-flow",
+    "exportName": "B04-29 \u00b7 Tool: Wispr Flow",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  },
+  {
+    "slideId": "s04-obsidian-agents",
+    "title": "Obsidian \u00d7 AI Agents",
+    "block": "B04",
+    "order": 30,
+    "exportId": "living-syllabus:s04-obsidian-agents",
+    "exportName": "B04-30 \u00b7 Obsidian \u00d7 AI Agents",
+    "figmaPageName": "Living Syllabus",
+    "exportStatus": "draft"
+  }
+]
