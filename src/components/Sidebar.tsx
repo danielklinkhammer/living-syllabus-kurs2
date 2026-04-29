@@ -58,7 +58,7 @@ export default function Sidebar({ isOpen, setIsOpen, isMobile, schedule, activeG
               if (!isOpen) {
                 setIsOpen(true);
               } else {
-                onOpenCourseOverview();
+                onSelectSlide(schedule[0].groups[0].id, 0);
               }
             }}
             className={`flex items-center gap-2 flex-1 outline-none focus:outline-none text-left ${isOpen ? 'hover:bg-white/5 rounded-xl p-1 -ml-1 transition-colors' : ''}`}
@@ -76,11 +76,7 @@ export default function Sidebar({ isOpen, setIsOpen, isMobile, schedule, activeG
                 Designing for <br />
                 <span className="text-white/70">and with</span> <span className="text-fhgr-accent bg-fhgr-accent/10 font-black px-1.5 py-0.5 rounded-md tracking-wider shadow-[0_0_8px_rgba(255,107,53,0.3)] border border-fhgr-accent/20">AI</span>
               </h2>
-              <div className="mt-2.5 flex items-center">
-                <span className="bg-gradient-to-r from-fhgr-petrol/20 to-fhgr-petrol/5 border border-fhgr-petrol/30 text-fhgr-petrol-light font-mono text-[12px] font-bold uppercase tracking-widest px-3 py-1 rounded-md shadow-[0_0_10px_rgba(131,197,190,0.15)]">
-                  Block 2
-                </span>
-              </div>
+
             </div>
           </button>
           

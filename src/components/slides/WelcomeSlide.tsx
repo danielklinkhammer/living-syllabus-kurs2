@@ -3,7 +3,7 @@ import Card from '../ui/Card'
 
 const items = [
   { label: 'Kurs',       value: 'Designing for and with AI' },
-  { label: 'Sitzung',    value: 'S02 + S03 — Block 2' },
+  { label: 'Sitzung',    value: 'S02 + S03' },
   { label: 'Semester',   value: 'FS 2026 · FHGR' },
   { label: 'Format',     value: 'Living Syllabus App' },
 ]
@@ -72,7 +72,7 @@ export default function WelcomeSlide() {
           transition={{ delay: 0.7 }}
         >
           Von Design-Token-DNA bis Git-Zeitmaschine —
-          fünf interaktive Module für Block 2.
+          fünf interaktive Module.
         </motion.p>
 
         {/* Meta grid */}

@@ -16,7 +16,7 @@ export default function RecapWelcomeSlide() {
           className="mb-8"
         >
           <div className="inline-block px-4 py-1.5 rounded-full border border-fhgr-petrol/30 bg-fhgr-petrol/10 text-fhgr-petrol-light text-xs font-mono uppercase tracking-widest mb-6">
-            Designing for and with AI · Block 2 · 29.04.2026
+            Designing for and with AI · 29.04.2026
           </div>
           
           <h1 className="text-6xl md:text-7xl font-bold tracking-tight leading-[1.1] mb-6">

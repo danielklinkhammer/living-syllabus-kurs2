@@ -130,13 +130,13 @@ const rawSchedule: DayScheduleInput[] = [
         id: "sys-intro", title: "Intro & Rückblick", icon: <BookOpen className="w-[18px] h-[18px]" />,
         slides: [
           { id: 's03-open1', title: 'Willkommen', component: <RecapWelcomeSlide /> },
-          { id: 's03-open2', title: 'Modelle', component: <RecapFoundationSlide /> },
+          // { id: 's03-open2', title: 'Modelle', component: <RecapFoundationSlide /> },
           { id: 's03-open3', title: 'LLMs & Agenten', component: <RecapEcosystemSlide /> },
           { id: 's03-open4', title: 'AI-Native Apps', component: <RecapAppliedAISlide /> },
-          { id: 's03-open5', title: 'KI im UX Lifecycle', component: <RecapPromptingSlide /> },
+          // { id: 's03-open5', title: 'KI im UX Lifecycle', component: <RecapPromptingSlide /> },
           { id: 's03-open6', title: 'Image vs. Code', component: <RecapImageVsCodeSlide /> },
-          { id: 's03-open7', title: 'Review Challenge A', component: <RecapChallengeASlide /> },
-          { id: 's03-open8', title: 'Review Challenge B', component: <RecapChallengeBSlide /> },
+          // { id: 's03-open7', title: 'Review Challenge A', component: <RecapChallengeASlide /> },
+          // { id: 's03-open8', title: 'Review Challenge B', component: <RecapChallengeBSlide /> },
           { id: 's03-open9', title: 'Reflexion', component: <RecapReflectionSlide /> }
         ]
       },
@@ -235,6 +235,7 @@ const rawSchedule: DayScheduleInput[] = [
           { id: 's04-api-connection', title: 'API Anbindung & Sicherheit', component: <ApiConnectionSlide /> }
         ]
       },
+      /*
       {
         id: "proto-chalD2", title: "Challenge E.1", icon: <Hammer className="w-[18px] h-[18px]" />,
         slides: [
@@ -268,6 +269,7 @@ const rawSchedule: DayScheduleInput[] = [
           }
         ]
       },
+      */
       {
         id: "proto-tech2", title: "Web Dev", icon: <Rocket className="w-[18px] h-[18px]" />,
         slides: [
@@ -281,6 +283,7 @@ const rawSchedule: DayScheduleInput[] = [
           { id: 's04-vibe-tools', title: 'Komponenten & UI-Inspiration', component: <VibeCodingInspirationSlide /> }
         ]
       },
+      /*
       {
         id: "proto-chalE", title: "Challenge E.2", icon: <Hammer className="w-[18px] h-[18px]" />,
         slides: [
@@ -290,6 +293,8 @@ const rawSchedule: DayScheduleInput[] = [
           }
         ]
       },
+      */
+      /*
       {
         id: "proto-localnotes", title: "Zusatz: PIM", icon: <Brain className="w-[18px] h-[18px]" />,
         slides: [
@@ -300,6 +305,7 @@ const rawSchedule: DayScheduleInput[] = [
           { id: 's04-obsidian-agents', title: 'Obsidian × AI Agents', component: <ObsidianAIAgentsSlide /> }
         ]
       }
+      */
     ]
   }
 ]
