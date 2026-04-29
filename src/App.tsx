@@ -116,7 +116,7 @@ export default function App() {
           currentIndex={currentIndex}
           onSelectGroup={handleSelectGroup}
           onSelectSlide={handleSelectSlide}
-          onOpenCourseOverview={() => { setIsDesignSystemOpen(false); setIsCourseOverviewOpen(true); }}
+          // onOpenCourseOverview={() => { setIsDesignSystemOpen(false); setIsCourseOverviewOpen(true); }}
         />
         
         <div className="relative flex-1 flex flex-col h-full overflow-hidden">

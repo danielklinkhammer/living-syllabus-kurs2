@@ -12,10 +12,10 @@ interface SidebarProps {
   onSelectGroup: (groupId: string) => void;
   onSelectSlide: (groupId: string, index: number) => void;
 
-  onOpenCourseOverview: () => void;
+  // onOpenCourseOverview: () => void;
 }
 
-export default function Sidebar({ isOpen, setIsOpen, isMobile, schedule, activeGroupId, currentIndex, onSelectGroup, onSelectSlide, onOpenCourseOverview }: SidebarProps) {
+export default function Sidebar({ isOpen, setIsOpen, isMobile, schedule, activeGroupId, currentIndex, onSelectGroup, onSelectSlide }: SidebarProps) {
   const [expandedGroupId, setExpandedGroupId] = useState<string | null>(activeGroupId);
 
   // Sync expanded state if the active group is changed externally
